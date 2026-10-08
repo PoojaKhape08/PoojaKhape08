@@ -44,7 +44,7 @@ Git • GitHub • VS Code • Jupyter Notebook
 
 ## 📫 Connect With Me
 
-💼 [LinkedIn](www.linkedin.com/in/poojakhape)  
+💼 [LinkedIn](https://www.linkedin.com/in/poojakhape/)  
 💻 [GitHub](https://github.com/PoojaKhape08)
 
 ---
